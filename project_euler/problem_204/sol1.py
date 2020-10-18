@@ -14,7 +14,7 @@ In the solution...
 
 import time
 from itertools import combinations_with_replacement, cycle
-from math import prod, log2
+from math import log2, prod
 
 
 def prime_sieve_eratosthenes(num):
@@ -44,7 +44,7 @@ def prime_sieve_eratosthenes(num):
     return primes
 
 
-def solution(limit: int = 10**9, hamming_type: int = 100):
+def solution(limit: int = 10 ** 9, hamming_type: int = 100):
     """
 
     >>> solution(15, 5)
@@ -86,8 +86,6 @@ def solution(limit: int = 10**9, hamming_type: int = 100):
             return count
         else:
             count += len(new_values)
-
-
 
 
 if __name__ == "__main__":
