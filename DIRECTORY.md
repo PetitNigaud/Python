@@ -323,6 +323,10 @@
   * [Sdbm](https://github.com/TheAlgorithms/Python/blob/master/hashes/sdbm.py)
   * [Sha1](https://github.com/TheAlgorithms/Python/blob/master/hashes/sha1.py)
 
+## Knapsack
+  * [Knapsack](https://github.com/TheAlgorithms/Python/blob/master/knapsack/knapsack.py)
+  * [Test Knapsack](https://github.com/TheAlgorithms/Python/blob/master/knapsack/test_knapsack.py)
+
 ## Linear Algebra
   * Src
     * [Lib](https://github.com/TheAlgorithms/Python/blob/master/linear_algebra/src/lib.py)
@@ -502,6 +506,7 @@
   * [Magicdiamondpattern](https://github.com/TheAlgorithms/Python/blob/master/other/magicdiamondpattern.py)
   * [Markov Chain](https://github.com/TheAlgorithms/Python/blob/master/other/markov_chain.py)
   * [Max Sum Sliding Window](https://github.com/TheAlgorithms/Python/blob/master/other/max_sum_sliding_window.py)
+  * [Median Of Two Arrays](https://github.com/TheAlgorithms/Python/blob/master/other/median_of_two_arrays.py)
   * [Nested Brackets](https://github.com/TheAlgorithms/Python/blob/master/other/nested_brackets.py)
   * [Palindrome](https://github.com/TheAlgorithms/Python/blob/master/other/palindrome.py)
   * [Password Generator](https://github.com/TheAlgorithms/Python/blob/master/other/password_generator.py)
@@ -765,6 +770,7 @@
   * [Odd Even Transposition Parallel](https://github.com/TheAlgorithms/Python/blob/master/sorts/odd_even_transposition_parallel.py)
   * [Odd Even Transposition Single Threaded](https://github.com/TheAlgorithms/Python/blob/master/sorts/odd_even_transposition_single_threaded.py)
   * [Pancake Sort](https://github.com/TheAlgorithms/Python/blob/master/sorts/pancake_sort.py)
+  * [Patience Sort](https://github.com/TheAlgorithms/Python/blob/master/sorts/patience_sort.py)
   * [Pigeon Sort](https://github.com/TheAlgorithms/Python/blob/master/sorts/pigeon_sort.py)
   * [Pigeonhole Sort](https://github.com/TheAlgorithms/Python/blob/master/sorts/pigeonhole_sort.py)
   * [Quick Sort](https://github.com/TheAlgorithms/Python/blob/master/sorts/quick_sort.py)
